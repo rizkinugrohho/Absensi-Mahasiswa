@@ -1,0 +1,46 @@
+#dark {
+	background-color: #2d383c;
+	color: white;
+}
+
+#dark .navbar {
+	background-color: #0784b5;
+}
+
+#dark .navbar-brand {
+	color: white;
+}
+
+#dark .bi-github {
+	color: white;
+}
+
+#dark .btn {
+	background-color: #0784b5;
+	color: white;
+}
+
+#bshadow{
+	box-shadow: 0 4px 15px 0 #f7f7f7;
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar, .btn {
+	background-color: #39ace7;
+}
+
+#form {
+	margin-top: 150px;
+
+.form-absensi {
+	border: 0.1px solid gray;
+}
+
+.bi-github {
+	color: black;
+}
